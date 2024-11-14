@@ -1,0 +1,4 @@
+name: ProtectTheWeed
+version: '1.0-SNAPSHOT'
+main: de.daftleech.protectTheWeed.ProtectTheWeed
+api-version: '1.21'
